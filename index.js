@@ -1,12 +1,12 @@
-function currentLine(line) {
-  if (line.length = 0) {
+var katzDeli = [];
+
+function currentLine(name) {
+  if (name.length = 0) {
     return "The line is currently empty.";
   }
   
-  var numbersAndNames = [];
-  
-  for (let i = 0; i < line.length; i++) {
-    numbersAndNames.push(`${i + 1}. ${line[i]}`)
+  for (let i = 0; i < name.length; i++) {
+    katzDeli.push(`${i + 1}. ${name[i]}`)
   }
 }
 
