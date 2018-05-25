@@ -4,6 +4,8 @@ function currentLine(line) {
   }
   
   var numbersAndNames = [];
+  
+  for ()
 }
 
 function takeANumber(line, name) {
