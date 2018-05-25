@@ -1,7 +1,7 @@
 var katzDeli = [];
 
 function currentLine(name) {
-  if (name.length = 0) {
+  if (name.length === 0) {
     return "The line is currently empty.";
   }
   
@@ -17,7 +17,7 @@ function takeANumber(line, name) {
 }
 
 function nowServing() {
-  if (!line.length) {
+  if (line.length === 0) {
     return "There is nobody waiting to be served!"
     
   }
