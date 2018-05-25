@@ -6,7 +6,7 @@ function currentLine(line) {
   var numbersAndNames = [];
   
   for (let i = 0; i < line.length; i++) {
-    numbersAndNames.push
+    numbersAndNames.push()
   }
 }
 
