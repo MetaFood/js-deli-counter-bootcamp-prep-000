@@ -1,5 +1,3 @@
-var katzDeli = [];
-
 function currentLine() {
   
 }
