@@ -22,4 +22,6 @@ function currentLine(name) {
   for (let i = 0; i < name.length; i++) {
     numbersAndNames.push(`${i + 1}. ${name[i]}`);
   }
+  
+  return numbersAndNames
 }
