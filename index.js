@@ -5,7 +5,7 @@ function currentLine(line) {
   
   var numbersAndNames = [];
   
-  for ()
+  for (let i = 0; i < line.length; )
 }
 
 function takeANumber(line, name) {
