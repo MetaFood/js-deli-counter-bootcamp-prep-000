@@ -11,5 +11,5 @@ function takeANumber(line, name) {
 }
 
 function nowServing() {
-  return 
+  return katzDeli[0];
 }
