@@ -1,5 +1,5 @@
 var katzDeli = [];
 
-function takeANumber(line, person) {
+function takeANumber(line, name) {
   return `Welcome, ${newPerson}. You are number ${${katzDeliLine} + 1} in line.`;
 }
