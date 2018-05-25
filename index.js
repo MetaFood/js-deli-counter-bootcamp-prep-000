@@ -3,7 +3,7 @@ function currentLine(line) {
     return "The line is currently empty.";
   }
   
-  var
+  var numbersAndNames
 }
 
 function takeANumber(line, name) {
