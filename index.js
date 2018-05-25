@@ -1,6 +1,6 @@
 function currentLine(line) {
   if (line.length = 0) {
-    return 
+    return `
   }
 }
 
