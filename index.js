@@ -1,5 +1,5 @@
 function currentLine(line) {
-  
+  if (line.length = 0)
 }
 
 function takeANumber(line, name) {
