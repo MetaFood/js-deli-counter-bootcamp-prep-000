@@ -5,8 +5,10 @@ function currentLine(name) {
     return "The line is currently empty.";
   }
   
+  var numbersAndNames = [];
+  
   for (let i = 0; i < name.length; i++) {
-    katzDeli.push(`${i + 1}. ${name[i]}`)
+    numbersAndNames.push(`${i + 1}. ${name[i]}`)
   }
 }
 
