@@ -20,7 +20,7 @@ function currentLine(name) {
   var numbersAndNames = [];
   
   for (let i = 0; i < name.length; i++) {
-    numbersAndNames.push(` ${i + 1}. ${name[i]}`);
+    numbersAndNames.push(`${i + 1}. ${name[i]}`);
   }
   
   return `The line is currently: ${numbersAndNames}`;
